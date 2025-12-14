@@ -1,0 +1,29 @@
+/* CSS STYLE */
+body {
+    background-color: #0a1f44;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+.header {
+    text-align: center;
+    border: 2px solid white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.logo {
+    font-size: 40px;
+	font-family: Time news roman;
+    color: #4daff;
+}
+h2 {
+    color: #66b6ff;
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+}
+p {
+    font-size: 18px;
+    background-color: #112e6b;
+    border: 2px solid #4da6ff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
